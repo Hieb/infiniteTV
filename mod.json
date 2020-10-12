@@ -2,7 +2,7 @@
   "Name": "infiniteTV",
   "Description": "Makes the TV time to live infinite.",
   "Version": "1.0.0",
-  "Author": "Hieb",
+  "Authors": [ "Hieb" ],
   "HasVeniceEXT": true,
   "Dependencies": {
     "veniceext": "^1.0.0"
